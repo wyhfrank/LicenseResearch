@@ -1,0 +1,4 @@
+Original - T: 235, F: 128, False Positive Rate: 35.2617%
+Filter out line count under 10 - T: 223, F: 21, False Positive Rate: 8.6066%
+Filter out line count under 15 - T: 217, F: 7, False Positive Rate: 3.1250%
+Filter out line count under 20 - T: 214, F: 5, False Positive Rate: 2.2831%
